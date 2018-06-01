@@ -1,0 +1,14 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/ 
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://ahodaisuki.github.io/sitmap.xml
+Sitemap: https://ahodaisuki.github.io/baidusitemap.xml
+
